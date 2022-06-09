@@ -4,7 +4,8 @@
   var robloxPassword = "vr1981vr"; 
   
   //Env login!
-  process.env.Hahahahahahahbq
+  process.env.Hahahahahahahbq;
+  process.env.user_id
   
   //Captcha requirement! 
   false; 
@@ -24,4 +25,7 @@
   const cookieLogin = true; 
   const envLogin = true;
   const playingGame = require("./config.json");
+  const Config = require("./config.js");
+  const Cloud = require("./clouds/save.js");
+  const events = require("./events/login.js");
 }

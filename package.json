@@ -14,7 +14,9 @@
     "point-of-view": "^5.2.0",
     "co": "^4.6.0",
     "noblox.js": "^4.13.1",
-    "discord.js": "^13.6.0"
+    "discord.js": "^13.8.0",
+    "discord.hy": "^10.5.1",
+    "discord.py": "^1.0.0"
   },
   "engines": {
     "node": "12.x"
