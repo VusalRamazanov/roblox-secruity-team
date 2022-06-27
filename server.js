@@ -1,10 +1,10 @@
 {
   //Login system and, more!
-  var robloxUsername = "KannasClosetGroupBot"; 
-  var robloxPassword = "vr1981vr"; 
+  var robloxUsername = "username"; 
+  var robloxPassword = "password"; 
   
   //Env login!
-  process.env.Hahahahahahahbq;
+  process.env.username;
   process.env.user_id
   
   //Captcha requirement! 
@@ -13,8 +13,8 @@
   console.log("Your account has been logged! Now manage roblox account!"); 
 
   //Grouo id! 
-  var groupID = 8802265; 
-  var GroupID = 2782840;
+  var groupID = 8; 
+  var GroupID = 2;
   console.log("Group has been connected!"); 
 
   //Events! 
