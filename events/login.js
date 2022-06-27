@@ -4,7 +4,7 @@ const config = require("../config.json");
 const events = require("../events.js");
 const Config = require("../config.js");
 const cookie = require("../cookie.js");
-process.env.Hahahahahahahbq;
+process.env.username;
 process.env.user_id;
 var login = true;
 let LoginType = 'cookie, no captcha, username and, password, user id';
